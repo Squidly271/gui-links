@@ -2,16 +2,19 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "gui-links">
 <!ENTITY author    "Andrew Zawadzki">
-<!ENTITY version   "2018.12.08a">
-<!ENTITY md5       "9e5bb01d4cdae6e9ee18e4d87ffdf646">
+<!ENTITY version   "2019.01.19">
+<!ENTITY md5       "135a13d0eddce09360ccb695ecdaffd6">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github    "Squidly271/gui-links">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/master/plugins/&name;.plg">
 ]>
 
-<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" min="6.4.0">
+<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" min="6.4.0" icon="link">
 
 <CHANGES>
+###2019.01.19
+- Update Icon
+
 ###2018.12.08
 - Initial Release
 </CHANGES>
