@@ -3,6 +3,6 @@ Link="nav-user"
 ---
 <script>
 $(function() {
-  $("#copyright").append("&nbsp;&nbsp;<a href='https://forums.unraid.net/topic/46802-faq-for-unraid-v6/?page=2&tab=comments#comment-554741' target='_blank'>unRAID FAQ</a>&nbsp;&nbsp;<a href='https://forums.unraid.net/topic/57181-real-docker-faq/' target='_blank'>Docker FAQ</a> <a href='https://forums.unraid.net/topic/51703-vm-faq/?tab=comments#comment-557627' target='_blank'>VM FAQ</a>&nbsp;&nbsp;<a href='https://forums.unraid.net/' target='_blank'>Forum</a>&nbsp;&nbsp;<a href='https://www.youtube.com/channel/UCZDfnUn74N0WeAPvMqTOrtA/' target='_blank'>Videos</a>");
+  $("#copyright").append("&nbsp;&nbsp;<a href='https://forums.unraid.net/topic/46802-faq-for-unraid-v6/' target='_blank'>unRAID FAQ</a>&nbsp;&nbsp;<a href='https://forums.unraid.net/topic/57181-real-docker-faq/' target='_blank'>Docker FAQ</a> <a href='https://forums.unraid.net/topic/51703-vm-faq/?tab=comments#comment-557627' target='_blank'>VM FAQ</a>&nbsp;&nbsp;<a href='https://forums.unraid.net/' target='_blank'>Forum</a>&nbsp;&nbsp;<a href='https://www.youtube.com/channel/UCZDfnUn74N0WeAPvMqTOrtA/' target='_blank'>Videos</a>");
 });
 </script>
